@@ -2,6 +2,10 @@
 
 This Chrome Extension tells you whether or not the current book you're looking at on Amazon is available on [Oyster](://oysterbooks.com). If so, it'll show the Oyster logo in the omnibox and clicking it will take you to the book page on Oyster. Yay!
 
+## Download
+
+Download it [here](https://github.com/connor/Oyster-Chrome-Extension/archive/master.zip)
+
 ## Example
 
 ![](http://cl.ly/image/2c221s293T1Y/Screen%20Shot%202015-01-28%20at%2021.27.21.png)
