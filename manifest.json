@@ -1,0 +1,19 @@
+{
+  "name": "Oyster",
+  "version": "1.0.0",
+  "description": "View a book from Amazon on Oyster",
+  "icons": { "128": "icon.png" },
+  "background": { "scripts": ["background.js"] },
+  "content_scripts": [
+    { "matches": ["http://*.amazon.com/*"], "js": ["content.js"] }
+  ],
+  "permissions": [
+    "tabs",
+    "https://www.oysterbooks.com/api/*"
+  ],
+  "page_action": {
+      "default_icon": "icon.png",
+      "default_title": "Find this on Oyster!"
+  },
+  "manifest_version": 2
+}
