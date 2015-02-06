@@ -12,9 +12,13 @@ Download it [here](https://github.com/connor/Oyster-Chrome-Extension/archive/mas
 
 ## How to Install
 
-**Note:** I'm planning on putting this on the chrome webstore shortly and will include a link there when it's up.
+#### From the Chrome Webstore
 
-Until then, download this, open up `chrome://extensions` in Chrome and check the `"Developer Mode"` checkbox.
+You can install the extension from the Chrome Webstore [here](https://chrome.google.com/webstore/detail/hgeeejjaalhbfccjaacineioagecdenb/publish-delayed?hl=en-US&gl=US&authuser=1).
+
+#### Locally
+
+To install locally, download this, open up `chrome://extensions` in Chrome and check the `"Developer Mode"` checkbox.
 
 Next, click "Load unpacked extension..." and navigate to this directory. Select that, and you should be good to go.
 
