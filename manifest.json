@@ -1,5 +1,5 @@
 {
-  "name": "Oyster",
+  "name": "Oyster Chrome Extension",
   "version": "1.0.0",
   "description": "View a book from Amazon on Oyster",
   "icons": { "128": "icon.png" },
