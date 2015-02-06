@@ -1,4 +1,4 @@
-function checkForValidUrl(tab, data) {
+var checkForMatch = function(tab, data) {
     var title = data.title;
     var author = data.author;
     var url = 'https://www.oysterbooks.com/api/books/search?q=' + title;
@@ -24,6 +24,6 @@ function checkForValidUrl(tab, data) {
 
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
-        checkForValidUrl(sender.tab, request.data)
+        checkForMatch(sender.tab, request.data)
     }
 );
