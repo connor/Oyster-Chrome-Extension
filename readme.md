@@ -10,7 +10,7 @@ This Chrome Extension tells you whether or not the current book you're looking a
 
 #### From the Chrome Webstore
 
-You can install the extension from the Chrome Webstore [here](https://chrome.google.com/webstore/detail/hgeeejjaalhbfccjaacineioagecdenb/publish-delayed?hl=en-US&gl=US&authuser=1).
+You can install the extension from the Chrome Webstore [here](https://chrome.google.com/webstore/detail/oyster-chrome-extension/hgeeejjaalhbfccjaacineioagecdenb?authuser=1).
 
 #### Locally
 
