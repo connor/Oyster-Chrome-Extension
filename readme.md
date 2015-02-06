@@ -8,7 +8,7 @@ Download it [here](https://github.com/connor/Oyster-Chrome-Extension/archive/mas
 
 ## Example
 
-![](http://cl.ly/image/2c221s293T1Y/Screen%20Shot%202015-01-28%20at%2021.27.21.png)
+![](http://cl.ly/image/40383v0Z3R3c/screenshot.png)
 
 ## How to Install
 
