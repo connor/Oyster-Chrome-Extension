@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "View a book from Amazon on Oyster",
   "icons": { "128": "icon.png" },
-  "background": { "scripts": ["background.js"] },
+  "background": { 
+    "scripts": ["background.js"],
+    "persistent": true
+  },
   "content_scripts": [
     { "matches": ["http://*.amazon.com/*"], "js": ["content.js"] }
   ],
